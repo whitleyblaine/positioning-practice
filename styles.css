@@ -1,0 +1,57 @@
+.one {
+  background: black;
+  color: white;
+  width: 10%;
+  height: 50px;
+  position: relative;
+}
+
+.two {
+  background: grey;
+  color: white;
+  width: 10%;
+  height: 50px;
+  position: absolute;
+  bottom: -50px;
+}
+
+.three {
+  background: black;
+  color: white;
+  width: 10%;
+  height: 50px;
+  position: absolute;
+}
+
+.four {
+  background: black;
+  color: white;
+  width: 10%;
+  height: 50px;
+  position: absolute;
+}
+
+.five {
+  background: black;
+  color: white;
+  width: 10%;
+  height: 50px;
+  position: absolute;
+}
+
+.six {
+  background: black;
+  color: white;
+  width: 10%;
+  height: 50px;
+  position: absolute;
+}
+
+.seven {
+  background: black;
+  color: white;
+  width: 10%;
+  height: 50px;
+  position: absolute;
+}
+
