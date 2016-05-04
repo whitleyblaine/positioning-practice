@@ -66,6 +66,52 @@
   left: 50px;
 }
 
+.eight {
+  background: red;
+  color: white;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  bottom: 0;
+  left: 100%;
+}
+
+.nine {
+  background: black;
+  color: white;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  bottom: 25%;
+  left: 25%;
+  z-index: -1;
+}
+
+.ten {
+  background: red;
+  color: white;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  z-index: -2;
+}
+
+
+.eleven {
+  background: black;
+  color: white;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  bottom: 75%;
+  left: 75%;
+  z-index: -3;
+}
+
+/*Smiley*/
+
 .head {
   background: black;
   width: 200px;
